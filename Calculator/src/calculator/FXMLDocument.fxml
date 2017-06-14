@@ -110,7 +110,7 @@
                   <Font name="RexBold" size="26.0" />
                </font>
             </JFXButton>
-            <JFXButton layoutX="1.0" layoutY="384.0" onAction="#handleButtonAction" prefHeight="62.0" prefWidth="136.0" style="-fx-background-color: #343ba6;" text="+/-" textFill="WHITE">
+            <JFXButton fx:id="plusminus" layoutX="1.0" layoutY="384.0" onAction="#handleButtonAction" prefHeight="62.0" prefWidth="136.0" style="-fx-background-color: #343ba6;" text="+/-" textFill="WHITE">
                <font>
                   <Font name="RexBold" size="26.0" />
                </font>
