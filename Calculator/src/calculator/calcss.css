@@ -1,0 +1,7 @@
+#lbl1{
+    -fx-background-color: aquamarine;
+    -fx-background-radius: 50px;
+}
+JFXButton:hover{
+    -fx-text-fill: #999999;
+}
